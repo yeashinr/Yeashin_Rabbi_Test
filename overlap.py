@@ -1,7 +1,5 @@
 def overlap(PQ,AB):
-    index = 0
     output = 'Not Overlap'
-    bool_value = False
 
     for x in range(len(PQ)):
         if PQ[x] > 0 and PQ[x] > 0 :
